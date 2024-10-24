@@ -1,0 +1,13 @@
+Git clone command:
+
+Git clone "https://github.com/REETHUGEORGE/SAMPLE.git"
+Git alternatives : AWS, bitbucket, gitlab...
+
+*************************************************************************************
+
+git add .                   >>> add the file to the staging alternatives (file is being tracked by git)
+
+git commit -m "message"     >>> to commit the changes in the tracked file
+
+git push origin main        >>> pushing the file to the main branch in Github repository
+
